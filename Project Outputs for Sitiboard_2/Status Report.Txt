@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Sitiboard_2.PrjPcb]
+   Generated File[sitiboard-Plated.TXT]
+   Generated File[sitiboard-NonPlated.TXT]
+   Generated File[sitiboard.LDP]
+   Generated File[sitiboard.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 23:14:57 On 10.02.2022

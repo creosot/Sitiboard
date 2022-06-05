@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\YandexDisk\Components\sitiboard\PCB\Sitiboard_2\sitiboard.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=sitiboard-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=sitiboard-nonplated.txt|DrillLayers=gtl,gbl
