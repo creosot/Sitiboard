@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=GND Pin=P5-1
+Removed Pin From Net: NetName=But4 Pin=P5-4
+Removed Pin From Net: NetName=But3 Pin=P5-5
+Removed Pin From Net: NetName=But2 Pin=P5-6
+Removed Pin From Net: NetName=But1 Pin=P5-7
+Removed Pin From Net: NetName=gerkon Pin=U2-13
+Removed Member From Class: ClassName=Sheet2 Member=P5
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Added Component: Designator=J3(CON: IDC-10MS - 1_7mm)
+Added Component: Designator=SB1(SJ_2)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SJ2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SJ_2"; VariantName = "[No Variations]"
+Added Component: Designator=SB2(SJ_2)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SJ2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SJ_2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=But4 Pin=J3-4
+Added Pin To Net: NetName=But3 Pin=J3-5
+Added Pin To Net: NetName=But2 Pin=J3-6
+Added Pin To Net: NetName=But1 Pin=J3-7
+Added Pin To Net: NetName=gerkon Pin=J3-9
+Added Pin To Net: NetName=+5 Pin=J3-10
+Added Pin To Net: NetName=gerkon Pin=SB2-1
+Change Net Name : Old Net Name=gerkon New Net Name=Gerkon/But5
+Added Pin To Net: NetName=gerkon/but5/led3_ Pin=SB1-1
+Added Pin To Net: NetName=gerkon/but5/led3_ Pin=SB2-3
+Added Pin To Net: NetName=gerkon/but5/led3_ Pin=U1-21
+Added Net: Name=gerkon/but5/led3_
+Added Pin To Net: NetName=in Pin=SB2-2
+Added Pin To Net: NetName=in Pin=U2-13
+Added Net: Name=in
+Added Pin To Net: NetName=Led3 Pin=SB1-3
+Added Net: Name=Led3
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=R14-2
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Pin To Net: NetName=NetJ3_3 Pin=R15-2
+Added Net: Name=NetJ3_3
+Added Pin To Net: NetName=NetJ3_8 Pin=J3-8
+Added Net: Name=NetJ3_8
+Added Pin To Net: NetName=out Pin=SB1-2
+Added Pin To Net: NetName=out Pin=U2-12
+Added Net: Name=out
+Added Member To Class: ClassName=Sheet2 Member=Component J4 691103110002
+Added Member To Class: ClassName=Sheet2 Member=Component SB1 SJ2W
+Added Member To Class: ClassName=Sheet2 Member=Component SB2 SJ2W
