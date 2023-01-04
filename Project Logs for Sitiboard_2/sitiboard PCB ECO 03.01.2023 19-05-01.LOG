@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=But1 Pin=U3-1
+Removed Pin From Net: NetName=But2 Pin=U3-3
+Removed Pin From Net: NetName=But2_ Pin=U3-4
+Removed Pin From Net: NetName=But3 Pin=U3-5
+Removed Pin From Net: NetName=But3_ Pin=U3-6
+Removed Pin From Net: NetName=GND Pin=U3-7
+Removed Pin From Net: NetName=Led2 Pin=U3-8
+Removed Pin From Net: NetName=Led2_ Pin=U3-9
+Removed Pin From Net: NetName=Led1 Pin=U3-10
+Removed Pin From Net: NetName=Led1_ Pin=U3-11
+Removed Pin From Net: NetName=But4_ Pin=U3-12
+Removed Pin From Net: NetName=+5 Pin=U3-14
+Change Component Footprint: Designator=C4 Old Footprint=CAP 0603_1608_2 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C5 Old Footprint=CAP 0603_1608_2 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C14 Old Footprint=CAP 0603_1608_2 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C15 Old Footprint=CAP 0603_1608_2 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C16 Old Footprint=CAP 0603_1608_2 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C17 Old Footprint=CAP 0603_1608_2 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C18 Old Footprint=CAP 0603_1608_2 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C21 Old Footprint=CAP 0603_1608_2 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=U3 Old Footprint=SOIC127P600X175-14N New Footprint=SOP65P640X120-20N
+Change Component Comment : Designator=U3 Old Comment=CD74AC14M96 New Comment=74ACT245MTC
+Change component parameters: Designator = "U3" ("U3"); Footprint = "SOIC127P600X175-14N"; UniqueID = "\WKQTBDBY" ("\WKQTBDBY")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "74ACT245MTC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/74act245mtc/on-semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74ACT245MTC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "512-74ACT245MTC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/74ACT245MTC?qs=%252BB4HepoMqkDnSmU%252BtOTl3g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=But2_ Pin=U3-3
+Added Pin To Net: NetName=But3_ Pin=U3-4
+Added Pin To Net: NetName=Led2 Pin=U3-5
+Added Pin To Net: NetName=Led1 Pin=U3-6
+Added Pin To Net: NetName=But4_ Pin=U3-7
+Added Pin To Net: NetName=GND Pin=U3-10
+Added Pin To Net: NetName=Led1_ Pin=U3-14
+Added Pin To Net: NetName=Led2_ Pin=U3-15
+Added Pin To Net: NetName=But3 Pin=U3-16
+Added Pin To Net: NetName=But2 Pin=U3-17
+Added Pin To Net: NetName=But1 Pin=U3-18
+Added Pin To Net: NetName=GND Pin=U3-19
+Added Pin To Net: NetName=+5 Pin=U3-20
+Change Net Name : Old Net Name=gerkon/but5/led3_ New Net Name=led3_

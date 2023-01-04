@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=But2_ Pin=U3-2
+Removed Pin From Net: NetName=But3_ Pin=U3-3
+Removed Pin From Net: NetName=But1/Gerkon_ Pin=U3-4
+Removed Pin From Net: NetName=But4_ Pin=U3-5
+Removed Pin From Net: NetName=But4 Pin=U3-15
+Removed Pin From Net: NetName=But1/Gerkon Pin=U3-16
+Removed Pin From Net: NetName=But3 Pin=U3-17
+Removed Pin From Net: NetName=But2 Pin=U3-18
+Added Pin To Net: NetName=But2 Pin=U3-2
+Added Pin To Net: NetName=But3 Pin=U3-3
+Added Pin To Net: NetName=But1/Gerkon Pin=U3-4
+Added Pin To Net: NetName=But4 Pin=U3-5
+Added Pin To Net: NetName=But4_ Pin=U3-15
+Added Pin To Net: NetName=But1/Gerkon_ Pin=U3-16
+Added Pin To Net: NetName=But3_ Pin=U3-17
+Added Pin To Net: NetName=But2_ Pin=U3-18

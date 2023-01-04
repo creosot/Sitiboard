@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=But1 Pin=J3-4
+Removed Pin From Net: NetName=Gerkon/But5 Pin=J3-9
+Removed Pin From Net: NetName=led3_ Pin=SB1-1
+Removed Pin From Net: NetName=Led3 Pin=SB1-3
+Removed Pin From Net: NetName=Gerkon/But5 Pin=SB2-1
+Removed Pin From Net: NetName=led3_ Pin=SB2-3
+Removed Pin From Net: NetName=But1 Pin=U3-18
+Removed Member From Class: ClassName=Sheet2 Member=SB1
+Removed Member From Class: ClassName=Sheet2 Member=SB2
+Added Component: Designator=R17(RES 0805_2012)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/yageo/RC0805JR-07270RL/311-270ARCT-ND/731238"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.024" (0.60mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "02.09.2020 1:14:53"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "CutTape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805JR-07270RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "41820"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "270 Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.079" L x 0.049" W (2.00mm x 1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-270ARCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "270 Ohms"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Gerkon/But5 Pin=J3-4
+Added Pin To Net: NetName=Led3 Pin=U3-8
+Added Pin To Net: NetName=led3_ Pin=U3-12
+Added Pin To Net: NetName=Gerkon/But5 Pin=U3-18
+Change Net Name : Old Net Name=AIN12 New Net Name=AIN12_
+Change Net Name : Old Net Name=But1_ New Net Name=But1/Gerkon_
+Change Net Name : Old Net Name=Gerkon/But5 New Net Name=But1/Gerkon
+Added Pin To Net: NetName=Led4_ Pin=U1-20
+Added Pin To Net: NetName=Led4_ Pin=U3-11
+Added Net: Name=Led4_
+Added Pin To Net: NetName=Led4 Pin=R17-1
+Added Pin To Net: NetName=Led4 Pin=U3-9
+Added Net: Name=Led4
+Added Pin To Net: NetName=NetJ3_9 Pin=J3-9
+Added Pin To Net: NetName=NetJ3_9 Pin=R17-2
+Added Net: Name=NetJ3_9
+Added Member To Class: ClassName=Sheet2 Member=Component R17 270 Ohms
