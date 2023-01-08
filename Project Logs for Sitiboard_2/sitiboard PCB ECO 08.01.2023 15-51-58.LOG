@@ -1,0 +1,6 @@
+Change Component Comment : Designator=U3 Old Comment=MC74AC245 New Comment=MC74AC245DT
+Change Component Designator: OldDesignator=OC4 NewDesignator=OC5
+Change Component Designator: OldDesignator=OC5 NewDesignator=OC4
+Change Component Designator: OldDesignator=OC5in NewDesignator=OC4in
+Change Net Name : Old Net Name=NetOC4_1 New Net Name=NetOC5_1
+Change Net Name : Old Net Name=NetOC5_1 New Net Name=NetOC4_1

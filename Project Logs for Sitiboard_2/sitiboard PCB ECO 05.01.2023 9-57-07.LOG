@@ -1,0 +1,12 @@
+Change Component Comment : Designator=U3 Old Comment=74ACT245MTC New Comment=74AC245MTC
+Change component parameters: Designator = "U3" ("U3"); Footprint = "SOP65P640X120-20N"; UniqueID = "\KVHFMVAW" ("\KVHFMVAW")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "74AC245MTC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/74ac245mtc/on-semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/8021143"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74AC245MTC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "512-74AC245MTC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=512-74AC245MTC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
